@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "coursename":"System Engineer",
+        "courseyear":"2021",
+        "institute":"Infosys",
+        "grade":""
+    },
+    {
+        "id":2,
+        "coursename":"B.Tech in Mechanical Engineering",
+        "courseyear":"2021",
+        "institute":"Bapatla Engineering college",
+        "grade":"70% Percentage"
+    },
+    {
+        "id":3,
+        "coursename":"Intermediate",
+        "courseyear":"2017",
+        "institute":"R.K.Junior college",
+        "grade":"92% Percentage"
+    },
+    {
+        "id":4,
+        "coursename":"SSC",
+        "courseyear":"2015",
+        "institute":"Z.P.H High School",
+        "grade":"85%"
+    }
+]
