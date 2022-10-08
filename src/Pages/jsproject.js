@@ -47,7 +47,7 @@ const Jsprojects = () => {
               <div className="row">
                 <div className="col-sm-6">
                 
-                    Github Code <img src={githubImg} />
+                    Github Code <img src={githubImg}  alt=''/>
                  
                 </div>
                 <div className="col-sm-6">
