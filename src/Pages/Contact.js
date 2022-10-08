@@ -1,11 +1,11 @@
-import React, { useRef, useState } from "react";
+import React, { useState } from "react";
 import "./Contact.css";
 import emailjs from "emailjs-com";
 // import "../common/ToastJs";
 
 const Contact = () => {
   const [done, setDone] = useState(false);
-  const formRef = useRef();
+
 
   const sendEmail = (e) => {
     e.preventDefault();

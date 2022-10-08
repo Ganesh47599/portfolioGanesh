@@ -2,8 +2,7 @@ import React from "react";
 import "./jsproject.css";
 import ProjectData from "../Data/Jsprojects.json";
 import githubImg from "../assets/img/github.png";
-import pf1 from "../assets/img/project1.png";
-import pf2 from "../assets/img/project2.png";
+
 
 const Jsprojects = () => {
   return (

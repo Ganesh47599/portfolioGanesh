@@ -7,7 +7,7 @@ import Services from "./Pages/Services";
 import Education from "./Pages/Education";
 import Work from "./Pages/Work";
 import Contact from "./Pages/Contact";
-import Project from "./Pages/Project";
+
 import Aos from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";

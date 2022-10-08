@@ -17,21 +17,17 @@ function Home() {
                     <img src={profileImge} data-aos="flip-right" alt='Ganesh Pitchuka' className='img-fluid'/>
                     <div className='socialmedia'>
                         <a href='https://www.linkedin.com/in/pitchuka-durga-sai-ganesh-3b92b31a8'
-                        target='_blank'
-                        rel="noreferree"
+                       
                         >
                             <img src={linkendinicon} alt='linkedin' data-aos="fade-right" data-aos-delay='1000'/>
                         </a>
-                        <a href='https://github.com/Ganesh47599' target='_blank'
-                        rel="noreferree">
+                        <a href='https://github.com/Ganesh47599' >
   <img src={GithubIcon} alt='github' data-aos="fade-right" data-aos-delay='1000'/>
                         </a>
-                        <a href='https://www.instagram.com/pitchuka18' target='_blank'
-                        rel="noreferree">
+                        <a href='https://www.instagram.com/pitchuka18' >
   <img src={InstagramIcon} alt='Instagram' data-aos="fade-right" data-aos-delay='1000'/>
                         </a>
-                        <a href='mailto:ganeshyt84@gmail.com' target='_blank'
-                        rel="noreferree">
+                        <a href='mailto:ganeshyt84@gmail.com'>
   <img src={MailIcon} alt='email' data-aos="fade-right" data-aos-delay='1000'/>
                         </a>
                     </div>
@@ -45,8 +41,7 @@ function Home() {
                     <br/>
                     <div className='row'>
                         <div className='col-sm-4 col-6'>
-                            <a href={Pdf}  target='_blank'
-                        rel="noreferree">
+                            <a href={Pdf} >
                             <button type='button' className='btn btn-primary'>Resume</button>
                         </a>
 
