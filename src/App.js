@@ -23,14 +23,9 @@ function App() {
   return (
     <div>
       <Nav />
-      {/* <Home/>
-      <About />
-      <Services/>
-      <Education/>
-      <Work/>
-      <Contact/> */}
+      
       <Routes>
-        <Route exact="true" path="/myportfolio" element={<Home />}></Route>
+       <Route exact path="/" element={<Home/>}/>
         <Route path="/myportfolio" element={<Home />}></Route>
         <Route path="/about" element={<About />}></Route>
         <Route path="/services" element={<Services />}></Route>
